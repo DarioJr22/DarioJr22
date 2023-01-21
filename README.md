@@ -2,8 +2,8 @@
 
 <div style="display: flex; align-items: center !important">
 
- <img src="https://github-readme-stats.vercel.app/api?username=DarioJr22&hide=contribs,prs,issues&show_icons=true&theme=transparent">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioJr22&langs_count=8&theme=transparent&layout=compact">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DarioJr22&hide=contribs,prs,issues&show_icons=true&theme=transparent">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DarioJr22&langs_count=8&theme=transparent&layout=compact">
  
  </div>
  
