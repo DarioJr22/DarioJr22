@@ -41,6 +41,7 @@
 
 ##
 <br>
+
 ![Snake animation](https://github.com/DarioJr22/DarioJr22/blob/output/github-contribution-grid.svg)
 
 
