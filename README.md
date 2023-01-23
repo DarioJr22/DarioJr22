@@ -1,6 +1,8 @@
-# Olá ! Sou o Dário.
+<div>
+ <h1 align='center'> Olá, sou o Dário. Dev. Front-End Junior.</h1>
+ <div>
 
-<div style="display: flex; align-items: center !important">
+<div align = 'center'>
 
  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DarioJr22&hide=contribs,prs,issues&show_icons=true&theme=transparent">
  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DarioJr22&langs_count=8&theme=transparent&layout=compact">
@@ -9,7 +11,7 @@
  
 ##
 *Atualmente trabalho com essas tecnologias:*
-<div style="display: inline_block"><br>
+<div align='center' style="display: inline_block"><br>
   <img align="center" alt="Dario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dario-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dario-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -21,15 +23,18 @@
 ##
 
 *Estou estudando essas:*
-<div style="display: inline_block"><br>
+<div align='center' style="display: inline_block"><br>
   <img align="center" alt="Dario-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Dario-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 <br>
 
-*Além de sempre revisar o conteúdo do que já trabalho. Procuro sempre estar estudando tecnologias que eu ainda não domino*
-
- ##
+*Além de sempre revisar o conteúdo do que já trabalho. Procuro sempre estar estudando tecnologias que eu ainda não domino.*
+<br>
+  
+  
+  
+ <h2>Me siga nas rede sociais:</h2> 
 
 <div style="display: inline_block"> 
 
@@ -40,9 +45,16 @@
 </div>
 
 ##
+  
 <br>
+  
+ <div align='center'>
+   
+   ![Snake animation](https://github.com/DarioJr22/DarioJr22/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
+  
 
-![Snake animation](https://github.com/DarioJr22/DarioJr22/blob/output/github-contribution-grid-snake.svg)
 
 
 
