@@ -1,5 +1,5 @@
 <div>
- <h1 align='center'> Olá, sou o Dário. Dev. Front-End Junior.</h1>
+ <h1 align='center'> Olá, sou o Dário. Dev. FullStack.</h1>
  <div>
 
 <div align = 'center'>
