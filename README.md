@@ -50,8 +50,8 @@
   
  <div align='center'>
    
-   ![Snake animation](https://github.com/DarioJr22/DarioJr22/blob/output/github-contribution-grid-snake.svg)
-  
+<!--- (url)  ![Snake animation](https://github.com/DarioJr22/DarioJr22/blob/output/github-contribution-grid-snake.svg)
+  --->
   </div>
   
 
