@@ -7,9 +7,7 @@
 **Full Stack Developer @ Viasoft** • **Jaboatão dos Guararapes, PE, Brasil**
 
 <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarioJr22&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioJr22&layout=compact&theme=radical)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioJr22&layout=compact&theme=dracula)
 </div>
 
 ---
